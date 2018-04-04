@@ -35,7 +35,7 @@ section{
 	justify-content: center;
 	align-items: center;
 	padding-top: 7%;
-	padding-bottom: 15%;
+	padding-bottom: 18%;
 }
 
 
@@ -77,10 +77,14 @@ input:hover{
 }
 
 .line_footer {
-	height: 50%;
+	height: 40px;
 	border-top: 1px #e8e8e8 solid;
 	display: flex;
 	align-items: center;
+}
+
+#langage{
+	color:blue;
 }
 
 footer {
@@ -93,7 +97,7 @@ footer {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	margin: 10px 10px;
+	margin: 10px 0;
 }
 #last_footer div ul {
 	display: flex;
