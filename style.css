@@ -35,6 +35,7 @@ section{
 	justify-content: center;
 	align-items: center;
 	padding-top: 7%;
+	padding-bottom: 15%;
 }
 
 
@@ -45,7 +46,7 @@ section button{
 	border-radius: 4px;
 	padding:10px 20px;
 	border: none;
-	margin: -20px 2px;
+	margin: 20px 2px;
 }
 
 section button:hover{
@@ -60,7 +61,7 @@ section button:active{
 }
 
 input{
-	margin: 2%;
+	margin: 12px;
 	width: 636px;
 	height: auto;
 	padding: 10px 15px;
@@ -74,3 +75,33 @@ input:hover{
 	box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2), 0 0 0 1px rgba(0,0,0,0.08);
 	transition: box-shadow 2s;
 }
+
+.line_footer {
+	height: 50%;
+	border-top: 1px #e8e8e8 solid;
+	display: flex;
+	align-items: center;
+}
+
+footer {
+	display: flex;
+	flex-direction: column;
+	background: #f2f2f2;
+}
+
+#last_footer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 10px 10px;
+}
+#last_footer div ul {
+	display: flex;
+	flex-direction: row;
+
+}
+ul {
+	list-style-type: none;
+}
+
+
