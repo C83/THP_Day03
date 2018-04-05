@@ -3,4 +3,4 @@ Pour voir le rendu de la page, cliquez sur [ce lien](https://rawgit.com/C83/THP_
 
 ---
 
-Page réalisée par Cyril Manda & Pacôme Perrichot
+Page réalisée par Cyril M. & Pacôme P.
